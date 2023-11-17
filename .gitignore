@@ -1,0 +1,5 @@
+aws_demo_vars.example.yml
+*.key
+*.secret
+*.id_rsa
+*.id_dsa
